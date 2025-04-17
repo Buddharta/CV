@@ -109,9 +109,10 @@ Me ecuentro investigando las relaciones entre el análisis complejo clásico y l
 # {{{cvtag(Model-based reinforcement learning)}}}
 
 {{{par-div}}}
+{{{cvevent(Profesor de Asignatura A, UNAM, 2025, CDMX\, MX)}}}
+/*Profesor de: Matemáticas Avanzadas de la Física*/
 {{{cvevent(Asistente de profesor, UNAM, Sept 2015 -- presente, CDMX\, MX)}}}
-
-Además de mis estudios en matemáticas he impartido las siguientes clases como asistente de profesor en licenciatura y posgrado
+Materias impartidas como asistente de profesor: 
    - Análisis funcional (IIMAS - Posgrado).
    - Álgebra Superior I (Facultad de ciencias - Licenciatura).
    - Álgebra Superior II (Facultad de ciencias - Licenciatura).
@@ -120,8 +121,6 @@ Además de mis estudios en matemáticas he impartido las siguientes clases como 
 
 {{{cvtag(Comunicación)}}}
 {{{cvtag(Enseñanza)}}}
-
-
 
 {{{divider}}}
 #+begin_export latex
